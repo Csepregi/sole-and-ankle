@@ -1,1 +1,1 @@
-export { default } from './ShoeGrid';
+export { default } from "./ShoeGrid";
